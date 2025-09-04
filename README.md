@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Salahuddin</h1>
-<h3 align="center">💻 Python Developer with strong knowledge of: Libraries: NumPy, Pandas, Scikit-Learn, Seaborn, OpenCV Skills: Data Analysis, Machine Learning basics, Data Visualization, Problem-Solving 🚀 On the journey to becoming a Full Stack Developer.</h3>
+<h3 align="center">💻 Python Developer with strong knowledge of: Libraries: NumPy, Pandas, Scikit-Learn, Seaborn, OpenCV Skills: Data Analysis, Machine Learning basics, Data Visualization, Problem-Solving 🚀
+  On the journey to becoming a Full Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedsalahuddin1&label=Profile%20views&color=0e75b6&style=flat" alt="syedsalahuddin1" /> </p>
 
